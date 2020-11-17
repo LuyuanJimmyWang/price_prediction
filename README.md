@@ -1,4 +1,3 @@
-(at least include a brief description of the project, features, required library, commands to run your code and an example output)
 Group 17: Housing Price Prediction \
 Description: \
 We aimed to find the best regression model among linear regression, robust regression and lasso regression as the model that fits the housing price data best. \
