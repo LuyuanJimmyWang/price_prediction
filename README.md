@@ -1,4 +1,3 @@
-Group 17: Housing Price Prediction \
 Description: \
 We aimed to find the best regression model among linear regression, robust regression and lasso regression as the model that fits the housing price data best. \
 We did data exploration, model fitting and performance evaluation in this ipynb file. \
